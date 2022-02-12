@@ -1,5 +1,5 @@
 python --version
-#pip install --upgrade azure-cli
+pip install --upgrade azure-cli
 pip install azure-cli==2.30.0
 pip install --upgrade azureml-sdk[cli]
 pip install pytest
